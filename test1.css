@@ -1,0 +1,16 @@
+@charset "utf-8";
+
+
+
+
+#header{left:0;top:0;right:0;width:100%;background:#E6838D;z-index:110}
+#header .contains{height:56px}
+
+
+
+#footer {
+    padding: 50px 0 40px 0;
+    text-align: center;
+    background: #e6838d;
+}
+
